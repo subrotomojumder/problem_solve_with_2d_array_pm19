@@ -25,7 +25,6 @@ int main()
         {
             func(n);
         }
-
         printf("\n");
     }
 
